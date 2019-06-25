@@ -1,0 +1,29 @@
+				MARKSHEET FOR SPRING SEMESTER
+
+Student Name : Nabeel Ahmed
+Board Name :O-level
+Father Name :Ghulam Abbas Moolji 
+Roll no : AIC025572
+ Passing Year:2022
+
+*		======================================================================
+*		Subject			Total Marks	Marks Obtained	Grade 
+		======================================================================*
+		Mathematics		 100		87		B
+*
+		Chemistry		 100		88		B
+*
+		Physics			 100		90		A+
+*
+		English			 100		77		C
+*
+		Pakistan Studies	 100		88		B
+
+
+
+
+		Obtained Marks:	 430
+		Total Marks: 500	
+		Percentage: 86.0	
+		Overall Grade:A	
+
